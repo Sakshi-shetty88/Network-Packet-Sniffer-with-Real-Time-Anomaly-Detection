@@ -26,3 +26,15 @@ Clone the repo and install dependencies:
 git clone https://github.com/Sakshi-shetty88/Network-Packet-Sniffer-with-Real-Time-Anomaly-Detection.git
 cd Network-Packet-Sniffer-with-Real-Time-Anomaly-Detection
 pip install -r requirements.txt
+
+
+## **Screenshots**
+
+<img width="1894" height="1082" alt="Screenshot 2025-08-21 153904" src="https://github.com/user-attachments/assets/4cf61d40-0cb7-44c1-887c-6d8ff9a5b95b" />
+
+
+<img width="1909" height="1070" alt="Screenshot 2025-08-21 153915" src="https://github.com/user-attachments/assets/d828f1af-3060-4b04-8c85-2c1b1d3ccfb1" />
+
+<img width="1904" height="1067" alt="Screenshot 2025-08-21 153938" src="https://github.com/user-attachments/assets/7f8d663a-60bf-46cb-a365-4347cdc2173a" />
+
+
