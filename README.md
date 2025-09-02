@@ -37,6 +37,8 @@ Check out :
 
 
 ## 🛠 Installation
+<img width="1901" height="1020" alt="Screenshot 2025-09-02 190042" src="https://github.com/user-attachments/assets/43a9998e-5f65-4e61-a88a-0a0c59adf1ec" />
+
 Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/Sakshi-shetty88/Network-Packet-Sniffer-with-Real-Time-Anomaly-Detection.git
