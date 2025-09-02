@@ -22,8 +22,6 @@ A lightweight Python-based **network packet sniffer** that captures live packets
   - Sudden traffic spikes
 
 ---
-Check out :
-(https://5rgx565j-5173.inc1.devtunnels.ms/)
 
 
 ## **Screenshots**
