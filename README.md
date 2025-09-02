@@ -37,7 +37,8 @@ Check out :
 
 
 ## 🛠 Installation
-<img width="1901" height="1020" alt="Screenshot 2025-09-02 190042" src="https://github.com/user-attachments/assets/43a9998e-5f65-4e61-a88a-0a0c59adf1ec" />
+<img width="1890" height="1001" alt="Screenshot 2025-09-02 190303" src="https://github.com/user-attachments/assets/5d3c2c8a-3020-4c5c-970f-4ee85e30cd32" />
+
 
 Clone the repo and install dependencies:
 ```bash
